@@ -1,0 +1,3453 @@
+After Fake retire
+After Execute
+Inside ISSUE 
+Inside ISSUE 
+Inside ISSUE 
+Inside ISSUE 
+Inside ISSUE 
+Inside ISSUE 
+Inside ISSUE 
+Inside ISSUE 
+Inside ISSUE 
+Inside ISSUE 
+Inside ISSUE 
+Inside ISSUE 
+Inside ISSUE 
+Inside ISSUE 
+Inside ISSUE 
+Inside ISSUE 
+After Issue
+In Dispatch 
+DISPATCH HEAD : 0
+ROB_STATE : 0 :: -1
+ROB_STATE : 1 :: -1
+ROB_STATE : 2 :: -1
+ROB_STATE : 3 :: -1
+ROB_STATE : 4 :: -1
+ROB_STATE : 5 :: -1
+ROB_STATE : 6 :: -1
+ROB_STATE : 7 :: -1
+ROB_STATE : 8 :: -1
+ROB_STATE : 9 :: -1
+ROB_STATE : 10 :: -1
+ROB_STATE : 11 :: -1
+ROB_STATE : 12 :: -1
+ROB_STATE : 13 :: -1
+ROB_STATE : 14 :: -1
+ROB_STATE : 15 :: -1
+ROB_STATE : 16 :: -1
+ROB_STATE : 17 :: -1
+ROB_STATE : 18 :: -1
+ROB_STATE : 19 :: -1
+ROB_STATE : 20 :: -1
+ROB_STATE : 21 :: -1
+ROB_STATE : 22 :: -1
+ROB_STATE : 23 :: -1
+ROB_STATE : 24 :: -1
+I : 0
+In Dispatch 1
+ID TAIL : 0DISPATCH TAIL :  0
+DISPATCH OVER 
+After Dispatch
+TRACE_EMPTY :0
+ROB EMPTY : 0
+TRACE: 2648736 2 21 29 -1
+TRACE: 2648740 2 20 29 -1
+TRACE: 2648744 2 19 29 -1
+TRACE: 2648748 2 18 29 -1
+TRACE: 2648752 2 17 29 -1
+TRACE: 2648756 2 16 29 -1
+TRACE: 2648760 0 29 29 -1
+TRACE: 2648764 0 -1 31 -1
+After Fetch
+After Fake retire
+After Execute
+Inside ISSUE 
+Inside ISSUE 
+Inside ISSUE 
+Inside ISSUE 
+Inside ISSUE 
+Inside ISSUE 
+Inside ISSUE 
+Inside ISSUE 
+Inside ISSUE 
+Inside ISSUE 
+Inside ISSUE 
+Inside ISSUE 
+Inside ISSUE 
+Inside ISSUE 
+Inside ISSUE 
+Inside ISSUE 
+After Issue
+In Dispatch 
+DISPATCH HEAD : 0
+ROB_STATE : 0 :: 0
+ROB_STATE : 1 :: 0
+ROB_STATE : 2 :: 0
+ROB_STATE : 3 :: 0
+ROB_STATE : 4 :: 0
+ROB_STATE : 5 :: 0
+ROB_STATE : 6 :: 0
+ROB_STATE : 7 :: 0
+ROB_STATE : 8 :: -1
+ROB_STATE : 9 :: -1
+ROB_STATE : 10 :: -1
+ROB_STATE : 11 :: -1
+ROB_STATE : 12 :: -1
+ROB_STATE : 13 :: -1
+ROB_STATE : 14 :: -1
+ROB_STATE : 15 :: -1
+ROB_STATE : 16 :: -1
+ROB_STATE : 17 :: -1
+ROB_STATE : 18 :: -1
+ROB_STATE : 19 :: -1
+ROB_STATE : 20 :: -1
+ROB_STATE : 21 :: -1
+ROB_STATE : 22 :: -1
+ROB_STATE : 23 :: -1
+ROB_STATE : 24 :: -1
+I : 8
+In Dispatch 1
+ID TAIL : 0DISPATCH TAIL :  8
+DISPATCH OVER 
+After Dispatch
+TRACE_EMPTY :0
+ROB EMPTY : 0
+After Fetch
+After Fake retire
+After Execute
+Inside ISSUE 
+Inside ISSUE 
+Inside ISSUE 
+Inside ISSUE 
+Inside ISSUE 
+Inside ISSUE 
+Inside ISSUE 
+Inside ISSUE 
+Inside ISSUE 
+Inside ISSUE 
+Inside ISSUE 
+Inside ISSUE 
+Inside ISSUE 
+Inside ISSUE 
+Inside ISSUE 
+Inside ISSUE 
+After Issue
+In Dispatch 
+DISPATCH HEAD : 0
+ROB_STATE : 0 :: 1
+ROB_STATE : 1 :: 1
+ROB_STATE : 2 :: 1
+ROB_STATE : 3 :: 1
+ROB_STATE : 4 :: 1
+ROB_STATE : 5 :: 1
+ROB_STATE : 6 :: 1
+ROB_STATE : 7 :: 1
+ROB_STATE : 8 :: -1
+ROB_STATE : 9 :: -1
+ROB_STATE : 10 :: -1
+ROB_STATE : 11 :: -1
+ROB_STATE : 12 :: -1
+ROB_STATE : 13 :: -1
+ROB_STATE : 14 :: -1
+ROB_STATE : 15 :: -1
+ROB_STATE : 16 :: -1
+ROB_STATE : 17 :: -1
+ROB_STATE : 18 :: -1
+ROB_STATE : 19 :: -1
+ROB_STATE : 20 :: -1
+ROB_STATE : 21 :: -1
+ROB_STATE : 22 :: -1
+ROB_STATE : 23 :: -1
+ROB_STATE : 24 :: -1
+I : 0
+In Dispatch 1
+ID TAIL : 8DISPATCH TAIL :  8
+DISPATCH OVER 
+After Dispatch
+TRACE_EMPTY :0
+ROB EMPTY : 0
+TRACE: 2684360 2 9 30 -1
+TRACE: 2684364 0 64 2 9
+TRACE: 2684368 0 4 64 -1
+TRACE: 2684372 0 5 65 -1
+TRACE: 2684376 0 5 4 -1
+TRACE: 2684380 1 4 0 0
+TRACE: 2684384 1 3 2 5
+TRACE: 2684388 0 3 3 -1
+After Fetch
+After Fake retire
+After Execute
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside ISSUE 
+Inside ISSUE 
+Inside ISSUE 
+Inside ISSUE 
+Inside ISSUE 
+Inside ISSUE 
+Inside ISSUE 
+After Issue
+In Dispatch 
+DISPATCH HEAD : 8
+ROB_STATE : 0 :: 2
+ROB_STATE : 1 :: 2
+ROB_STATE : 2 :: 2
+ROB_STATE : 3 :: 2
+ROB_STATE : 4 :: 2
+ROB_STATE : 5 :: 2
+ROB_STATE : 6 :: 2
+ROB_STATE : 7 :: 2
+ROB_STATE : 8 :: 0
+ROB_STATE : 9 :: 0
+ROB_STATE : 10 :: 0
+ROB_STATE : 11 :: 0
+ROB_STATE : 12 :: 0
+ROB_STATE : 13 :: 0
+ROB_STATE : 14 :: 0
+ROB_STATE : 15 :: 0
+ROB_STATE : 16 :: -1
+ROB_STATE : 17 :: -1
+ROB_STATE : 18 :: -1
+ROB_STATE : 19 :: -1
+ROB_STATE : 20 :: -1
+ROB_STATE : 21 :: -1
+ROB_STATE : 22 :: -1
+ROB_STATE : 23 :: -1
+ROB_STATE : 24 :: -1
+I : 8
+In Dispatch 1
+ID TAIL : 8DISPATCH TAIL :  16
+DISPATCH OVER 
+After Dispatch
+TRACE_EMPTY :0
+ROB EMPTY : 0
+After Fetch
+After Fake retire
+After Execute
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside ISSUE 
+Inside ISSUE 
+Inside ISSUE 
+Inside ISSUE 
+Inside ISSUE 
+Inside ISSUE 
+Inside ISSUE 
+After Issue
+In Dispatch 
+DISPATCH HEAD : 8
+ROB_STATE : 0 :: 2
+ROB_STATE : 1 :: 2
+ROB_STATE : 2 :: 2
+ROB_STATE : 3 :: 2
+ROB_STATE : 4 :: 2
+ROB_STATE : 5 :: 2
+ROB_STATE : 6 :: 2
+ROB_STATE : 7 :: 2
+ROB_STATE : 8 :: 1
+ROB_STATE : 9 :: 1
+ROB_STATE : 10 :: 1
+ROB_STATE : 11 :: 1
+ROB_STATE : 12 :: 1
+ROB_STATE : 13 :: 1
+ROB_STATE : 14 :: 1
+ROB_STATE : 15 :: 1
+ROB_STATE : 16 :: -1
+ROB_STATE : 17 :: -1
+ROB_STATE : 18 :: -1
+ROB_STATE : 19 :: -1
+ROB_STATE : 20 :: -1
+ROB_STATE : 21 :: -1
+ROB_STATE : 22 :: -1
+ROB_STATE : 23 :: -1
+ROB_STATE : 24 :: -1
+I : 0
+In Dispatch 1
+ID TAIL : 16DISPATCH TAIL :  16
+DISPATCH OVER 
+After Dispatch
+TRACE_EMPTY :0
+ROB EMPTY : 0
+TRACE: 2684392 0 4 2 -1
+TRACE: 2684396 0 5 3 4
+After Fetch
+After Fake retire
+After Execute
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+After Issue
+In Dispatch 
+DISPATCH HEAD : 16
+ROB_STATE : 0 :: 2
+ROB_STATE : 1 :: 2
+ROB_STATE : 2 :: 2
+ROB_STATE : 3 :: 2
+ROB_STATE : 4 :: 2
+ROB_STATE : 5 :: 2
+ROB_STATE : 6 :: 2
+ROB_STATE : 7 :: 2
+ROB_STATE : 8 :: 2
+ROB_STATE : 9 :: 2
+ROB_STATE : 10 :: 2
+ROB_STATE : 11 :: 2
+ROB_STATE : 12 :: 2
+ROB_STATE : 13 :: 3
+ROB_STATE : 14 :: 2
+ROB_STATE : 15 :: 2
+ROB_STATE : 16 :: 0
+ROB_STATE : 17 :: 0
+ROB_STATE : 18 :: -1
+ROB_STATE : 19 :: -1
+ROB_STATE : 20 :: -1
+ROB_STATE : 21 :: -1
+ROB_STATE : 22 :: -1
+ROB_STATE : 23 :: -1
+ROB_STATE : 24 :: -1
+I : 2
+In Dispatch 1
+ID TAIL : 16DISPATCH TAIL :  18
+DISPATCH OVER 
+After Dispatch
+TRACE_EMPTY :1
+ROB EMPTY : 0
+After Fetch
+After Fake retire
+After Execute
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+After Issue
+In Dispatch 
+DISPATCH HEAD : 16
+ROB_STATE : 0 :: 2
+ROB_STATE : 1 :: 2
+ROB_STATE : 2 :: 2
+ROB_STATE : 3 :: 2
+ROB_STATE : 4 :: 2
+ROB_STATE : 5 :: 2
+ROB_STATE : 6 :: 2
+ROB_STATE : 7 :: 2
+ROB_STATE : 8 :: 2
+ROB_STATE : 9 :: 2
+ROB_STATE : 10 :: 2
+ROB_STATE : 11 :: 2
+ROB_STATE : 12 :: 2
+ROB_STATE : 13 :: 3
+ROB_STATE : 14 :: 2
+ROB_STATE : 15 :: 2
+ROB_STATE : 16 :: 1
+ROB_STATE : 17 :: 1
+ROB_STATE : 18 :: -1
+ROB_STATE : 19 :: -1
+ROB_STATE : 20 :: -1
+ROB_STATE : 21 :: -1
+ROB_STATE : 22 :: -1
+ROB_STATE : 23 :: -1
+ROB_STATE : 24 :: -1
+I : 0
+In Dispatch 1
+ID TAIL : 18DISPATCH TAIL :  18
+DISPATCH OVER 
+After Dispatch
+TRACE_EMPTY :1
+ROB EMPTY : 0
+After Fetch
+After Fake retire
+After Execute
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+After Issue
+In Dispatch 
+DISPATCH HEAD : 17
+ROB_STATE : 0 :: 2
+ROB_STATE : 1 :: 2
+ROB_STATE : 2 :: 2
+ROB_STATE : 3 :: 2
+ROB_STATE : 4 :: 2
+ROB_STATE : 5 :: 2
+ROB_STATE : 6 :: 2
+ROB_STATE : 7 :: 2
+ROB_STATE : 8 :: 2
+ROB_STATE : 9 :: 2
+ROB_STATE : 10 :: 2
+ROB_STATE : 11 :: 2
+ROB_STATE : 12 :: 2
+ROB_STATE : 13 :: 3
+ROB_STATE : 14 :: 2
+ROB_STATE : 15 :: 2
+ROB_STATE : 16 :: 2
+ROB_STATE : 17 :: 1
+ROB_STATE : 18 :: -1
+ROB_STATE : 19 :: -1
+ROB_STATE : 20 :: -1
+ROB_STATE : 21 :: -1
+ROB_STATE : 22 :: -1
+ROB_STATE : 23 :: -1
+ROB_STATE : 24 :: -1
+I : 0
+In Dispatch 1
+ID TAIL : 18DISPATCH TAIL :  18
+DISPATCH OVER 
+After Dispatch
+TRACE_EMPTY :1
+ROB EMPTY : 0
+After Fetch
+After Fake retire
+After Execute
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+After Issue
+In Dispatch 
+DISPATCH HEAD : 17
+ROB_STATE : 0 :: 2
+ROB_STATE : 1 :: 2
+ROB_STATE : 2 :: 2
+ROB_STATE : 3 :: 2
+ROB_STATE : 4 :: 2
+ROB_STATE : 5 :: 2
+ROB_STATE : 6 :: 2
+ROB_STATE : 7 :: 2
+ROB_STATE : 8 :: 2
+ROB_STATE : 9 :: 2
+ROB_STATE : 10 :: 2
+ROB_STATE : 11 :: 2
+ROB_STATE : 12 :: 2
+ROB_STATE : 13 :: 4
+ROB_STATE : 14 :: 2
+ROB_STATE : 15 :: 2
+ROB_STATE : 16 :: 2
+ROB_STATE : 17 :: 1
+ROB_STATE : 18 :: -1
+ROB_STATE : 19 :: -1
+ROB_STATE : 20 :: -1
+ROB_STATE : 21 :: -1
+ROB_STATE : 22 :: -1
+ROB_STATE : 23 :: -1
+ROB_STATE : 24 :: -1
+I : 0
+In Dispatch 1
+ID TAIL : 18DISPATCH TAIL :  18
+DISPATCH OVER 
+After Dispatch
+TRACE_EMPTY :1
+ROB EMPTY : 0
+After Fetch
+After Fake retire
+After Execute
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+After Issue
+In Dispatch 
+DISPATCH HEAD : 17
+ROB_STATE : 0 :: 2
+ROB_STATE : 1 :: 2
+ROB_STATE : 2 :: 2
+ROB_STATE : 3 :: 2
+ROB_STATE : 4 :: 2
+ROB_STATE : 5 :: 2
+ROB_STATE : 6 :: 2
+ROB_STATE : 7 :: 2
+ROB_STATE : 8 :: 2
+ROB_STATE : 9 :: 2
+ROB_STATE : 10 :: 2
+ROB_STATE : 11 :: 2
+ROB_STATE : 12 :: 2
+ROB_STATE : 13 :: -1
+ROB_STATE : 14 :: 2
+ROB_STATE : 15 :: 2
+ROB_STATE : 16 :: 2
+ROB_STATE : 17 :: 1
+ROB_STATE : 18 :: -1
+ROB_STATE : 19 :: -1
+ROB_STATE : 20 :: -1
+ROB_STATE : 21 :: -1
+ROB_STATE : 22 :: -1
+ROB_STATE : 23 :: -1
+ROB_STATE : 24 :: -1
+I : 0
+In Dispatch 1
+ID TAIL : 18DISPATCH TAIL :  18
+DISPATCH OVER 
+After Dispatch
+TRACE_EMPTY :1
+ROB EMPTY : 0
+After Fetch
+After Fake retire
+After Execute
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+After Issue
+In Dispatch 
+DISPATCH HEAD : 17
+ROB_STATE : 0 :: 2
+ROB_STATE : 1 :: 2
+ROB_STATE : 2 :: 2
+ROB_STATE : 3 :: 2
+ROB_STATE : 4 :: 2
+ROB_STATE : 5 :: 2
+ROB_STATE : 6 :: 2
+ROB_STATE : 7 :: 2
+ROB_STATE : 8 :: 2
+ROB_STATE : 9 :: 2
+ROB_STATE : 10 :: 2
+ROB_STATE : 11 :: 2
+ROB_STATE : 12 :: 2
+ROB_STATE : 13 :: -1
+ROB_STATE : 14 :: 2
+ROB_STATE : 15 :: 2
+ROB_STATE : 16 :: 2
+ROB_STATE : 17 :: 1
+ROB_STATE : 18 :: -1
+ROB_STATE : 19 :: -1
+ROB_STATE : 20 :: -1
+ROB_STATE : 21 :: -1
+ROB_STATE : 22 :: -1
+ROB_STATE : 23 :: -1
+ROB_STATE : 24 :: -1
+I : 0
+In Dispatch 1
+ID TAIL : 18DISPATCH TAIL :  18
+DISPATCH OVER 
+After Dispatch
+TRACE_EMPTY :1
+ROB EMPTY : 0
+After Fetch
+After Fake retire
+After Execute
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+After Issue
+In Dispatch 
+DISPATCH HEAD : 17
+ROB_STATE : 0 :: 2
+ROB_STATE : 1 :: 2
+ROB_STATE : 2 :: 2
+ROB_STATE : 3 :: 2
+ROB_STATE : 4 :: 2
+ROB_STATE : 5 :: 2
+ROB_STATE : 6 :: 2
+ROB_STATE : 7 :: 2
+ROB_STATE : 8 :: 2
+ROB_STATE : 9 :: 2
+ROB_STATE : 10 :: 2
+ROB_STATE : 11 :: 2
+ROB_STATE : 12 :: 2
+ROB_STATE : 13 :: -1
+ROB_STATE : 14 :: 2
+ROB_STATE : 15 :: 2
+ROB_STATE : 16 :: 2
+ROB_STATE : 17 :: 1
+ROB_STATE : 18 :: -1
+ROB_STATE : 19 :: -1
+ROB_STATE : 20 :: -1
+ROB_STATE : 21 :: -1
+ROB_STATE : 22 :: -1
+ROB_STATE : 23 :: -1
+ROB_STATE : 24 :: -1
+I : 0
+In Dispatch 1
+ID TAIL : 18DISPATCH TAIL :  18
+DISPATCH OVER 
+After Dispatch
+TRACE_EMPTY :1
+ROB EMPTY : 0
+After Fetch
+After Fake retire
+After Execute
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+After Issue
+In Dispatch 
+DISPATCH HEAD : 17
+ROB_STATE : 0 :: 2
+ROB_STATE : 1 :: 2
+ROB_STATE : 2 :: 2
+ROB_STATE : 3 :: 2
+ROB_STATE : 4 :: 2
+ROB_STATE : 5 :: 2
+ROB_STATE : 6 :: 2
+ROB_STATE : 7 :: 2
+ROB_STATE : 8 :: 2
+ROB_STATE : 9 :: 2
+ROB_STATE : 10 :: 2
+ROB_STATE : 11 :: 2
+ROB_STATE : 12 :: 2
+ROB_STATE : 13 :: -1
+ROB_STATE : 14 :: 2
+ROB_STATE : 15 :: 2
+ROB_STATE : 16 :: 2
+ROB_STATE : 17 :: 1
+ROB_STATE : 18 :: -1
+ROB_STATE : 19 :: -1
+ROB_STATE : 20 :: -1
+ROB_STATE : 21 :: -1
+ROB_STATE : 22 :: -1
+ROB_STATE : 23 :: -1
+ROB_STATE : 24 :: -1
+I : 0
+In Dispatch 1
+ID TAIL : 18DISPATCH TAIL :  18
+DISPATCH OVER 
+After Dispatch
+TRACE_EMPTY :1
+ROB EMPTY : 0
+After Fetch
+After Fake retire
+After Execute
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+After Issue
+In Dispatch 
+DISPATCH HEAD : 17
+ROB_STATE : 0 :: 2
+ROB_STATE : 1 :: 2
+ROB_STATE : 2 :: 2
+ROB_STATE : 3 :: 2
+ROB_STATE : 4 :: 2
+ROB_STATE : 5 :: 2
+ROB_STATE : 6 :: 2
+ROB_STATE : 7 :: 2
+ROB_STATE : 8 :: 2
+ROB_STATE : 9 :: 2
+ROB_STATE : 10 :: 2
+ROB_STATE : 11 :: 2
+ROB_STATE : 12 :: 2
+ROB_STATE : 13 :: -1
+ROB_STATE : 14 :: 2
+ROB_STATE : 15 :: 2
+ROB_STATE : 16 :: 2
+ROB_STATE : 17 :: 1
+ROB_STATE : 18 :: -1
+ROB_STATE : 19 :: -1
+ROB_STATE : 20 :: -1
+ROB_STATE : 21 :: -1
+ROB_STATE : 22 :: -1
+ROB_STATE : 23 :: -1
+ROB_STATE : 24 :: -1
+I : 0
+In Dispatch 1
+ID TAIL : 18DISPATCH TAIL :  18
+DISPATCH OVER 
+After Dispatch
+TRACE_EMPTY :1
+ROB EMPTY : 0
+After Fetch
+After Fake retire
+After Execute
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+After Issue
+In Dispatch 
+DISPATCH HEAD : 17
+ROB_STATE : 0 :: 2
+ROB_STATE : 1 :: 2
+ROB_STATE : 2 :: 2
+ROB_STATE : 3 :: 2
+ROB_STATE : 4 :: 2
+ROB_STATE : 5 :: 2
+ROB_STATE : 6 :: 2
+ROB_STATE : 7 :: 2
+ROB_STATE : 8 :: 2
+ROB_STATE : 9 :: 2
+ROB_STATE : 10 :: 2
+ROB_STATE : 11 :: 2
+ROB_STATE : 12 :: 2
+ROB_STATE : 13 :: -1
+ROB_STATE : 14 :: 2
+ROB_STATE : 15 :: 2
+ROB_STATE : 16 :: 2
+ROB_STATE : 17 :: 1
+ROB_STATE : 18 :: -1
+ROB_STATE : 19 :: -1
+ROB_STATE : 20 :: -1
+ROB_STATE : 21 :: -1
+ROB_STATE : 22 :: -1
+ROB_STATE : 23 :: -1
+ROB_STATE : 24 :: -1
+I : 0
+In Dispatch 1
+ID TAIL : 18DISPATCH TAIL :  18
+DISPATCH OVER 
+After Dispatch
+TRACE_EMPTY :1
+ROB EMPTY : 0
+After Fetch
+After Fake retire
+After Execute
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+After Issue
+In Dispatch 
+DISPATCH HEAD : 17
+ROB_STATE : 0 :: 2
+ROB_STATE : 1 :: 2
+ROB_STATE : 2 :: 2
+ROB_STATE : 3 :: 2
+ROB_STATE : 4 :: 2
+ROB_STATE : 5 :: 2
+ROB_STATE : 6 :: 2
+ROB_STATE : 7 :: 2
+ROB_STATE : 8 :: 2
+ROB_STATE : 9 :: 2
+ROB_STATE : 10 :: 2
+ROB_STATE : 11 :: 2
+ROB_STATE : 12 :: 2
+ROB_STATE : 13 :: -1
+ROB_STATE : 14 :: 2
+ROB_STATE : 15 :: 2
+ROB_STATE : 16 :: 2
+ROB_STATE : 17 :: 1
+ROB_STATE : 18 :: -1
+ROB_STATE : 19 :: -1
+ROB_STATE : 20 :: -1
+ROB_STATE : 21 :: -1
+ROB_STATE : 22 :: -1
+ROB_STATE : 23 :: -1
+ROB_STATE : 24 :: -1
+I : 0
+In Dispatch 1
+ID TAIL : 18DISPATCH TAIL :  18
+DISPATCH OVER 
+After Dispatch
+TRACE_EMPTY :1
+ROB EMPTY : 0
+After Fetch
+After Fake retire
+After Execute
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+After Issue
+In Dispatch 
+DISPATCH HEAD : 17
+ROB_STATE : 0 :: 2
+ROB_STATE : 1 :: 2
+ROB_STATE : 2 :: 2
+ROB_STATE : 3 :: 2
+ROB_STATE : 4 :: 2
+ROB_STATE : 5 :: 2
+ROB_STATE : 6 :: 2
+ROB_STATE : 7 :: 2
+ROB_STATE : 8 :: 2
+ROB_STATE : 9 :: 2
+ROB_STATE : 10 :: 2
+ROB_STATE : 11 :: 2
+ROB_STATE : 12 :: 2
+ROB_STATE : 13 :: -1
+ROB_STATE : 14 :: 2
+ROB_STATE : 15 :: 2
+ROB_STATE : 16 :: 2
+ROB_STATE : 17 :: 1
+ROB_STATE : 18 :: -1
+ROB_STATE : 19 :: -1
+ROB_STATE : 20 :: -1
+ROB_STATE : 21 :: -1
+ROB_STATE : 22 :: -1
+ROB_STATE : 23 :: -1
+ROB_STATE : 24 :: -1
+I : 0
+In Dispatch 1
+ID TAIL : 18DISPATCH TAIL :  18
+DISPATCH OVER 
+After Dispatch
+TRACE_EMPTY :1
+ROB EMPTY : 0
+After Fetch
+After Fake retire
+After Execute
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+After Issue
+In Dispatch 
+DISPATCH HEAD : 17
+ROB_STATE : 0 :: 2
+ROB_STATE : 1 :: 2
+ROB_STATE : 2 :: 2
+ROB_STATE : 3 :: 2
+ROB_STATE : 4 :: 2
+ROB_STATE : 5 :: 2
+ROB_STATE : 6 :: 2
+ROB_STATE : 7 :: 2
+ROB_STATE : 8 :: 2
+ROB_STATE : 9 :: 2
+ROB_STATE : 10 :: 2
+ROB_STATE : 11 :: 2
+ROB_STATE : 12 :: 2
+ROB_STATE : 13 :: -1
+ROB_STATE : 14 :: 2
+ROB_STATE : 15 :: 2
+ROB_STATE : 16 :: 2
+ROB_STATE : 17 :: 1
+ROB_STATE : 18 :: -1
+ROB_STATE : 19 :: -1
+ROB_STATE : 20 :: -1
+ROB_STATE : 21 :: -1
+ROB_STATE : 22 :: -1
+ROB_STATE : 23 :: -1
+ROB_STATE : 24 :: -1
+I : 0
+In Dispatch 1
+ID TAIL : 18DISPATCH TAIL :  18
+DISPATCH OVER 
+After Dispatch
+TRACE_EMPTY :1
+ROB EMPTY : 0
+After Fetch
+After Fake retire
+After Execute
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+After Issue
+In Dispatch 
+DISPATCH HEAD : 17
+ROB_STATE : 0 :: 2
+ROB_STATE : 1 :: 2
+ROB_STATE : 2 :: 2
+ROB_STATE : 3 :: 2
+ROB_STATE : 4 :: 2
+ROB_STATE : 5 :: 2
+ROB_STATE : 6 :: 2
+ROB_STATE : 7 :: 2
+ROB_STATE : 8 :: 2
+ROB_STATE : 9 :: 2
+ROB_STATE : 10 :: 2
+ROB_STATE : 11 :: 2
+ROB_STATE : 12 :: 2
+ROB_STATE : 13 :: -1
+ROB_STATE : 14 :: 2
+ROB_STATE : 15 :: 2
+ROB_STATE : 16 :: 2
+ROB_STATE : 17 :: 1
+ROB_STATE : 18 :: -1
+ROB_STATE : 19 :: -1
+ROB_STATE : 20 :: -1
+ROB_STATE : 21 :: -1
+ROB_STATE : 22 :: -1
+ROB_STATE : 23 :: -1
+ROB_STATE : 24 :: -1
+I : 0
+In Dispatch 1
+ID TAIL : 18DISPATCH TAIL :  18
+DISPATCH OVER 
+After Dispatch
+TRACE_EMPTY :1
+ROB EMPTY : 0
+After Fetch
+After Fake retire
+After Execute
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+After Issue
+In Dispatch 
+DISPATCH HEAD : 17
+ROB_STATE : 0 :: 2
+ROB_STATE : 1 :: 2
+ROB_STATE : 2 :: 2
+ROB_STATE : 3 :: 2
+ROB_STATE : 4 :: 2
+ROB_STATE : 5 :: 2
+ROB_STATE : 6 :: 2
+ROB_STATE : 7 :: 2
+ROB_STATE : 8 :: 2
+ROB_STATE : 9 :: 2
+ROB_STATE : 10 :: 2
+ROB_STATE : 11 :: 2
+ROB_STATE : 12 :: 2
+ROB_STATE : 13 :: -1
+ROB_STATE : 14 :: 2
+ROB_STATE : 15 :: 2
+ROB_STATE : 16 :: 2
+ROB_STATE : 17 :: 1
+ROB_STATE : 18 :: -1
+ROB_STATE : 19 :: -1
+ROB_STATE : 20 :: -1
+ROB_STATE : 21 :: -1
+ROB_STATE : 22 :: -1
+ROB_STATE : 23 :: -1
+ROB_STATE : 24 :: -1
+I : 0
+In Dispatch 1
+ID TAIL : 18DISPATCH TAIL :  18
+DISPATCH OVER 
+After Dispatch
+TRACE_EMPTY :1
+ROB EMPTY : 0
+After Fetch
+After Fake retire
+After Execute
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+After Issue
+In Dispatch 
+DISPATCH HEAD : 17
+ROB_STATE : 0 :: 2
+ROB_STATE : 1 :: 2
+ROB_STATE : 2 :: 2
+ROB_STATE : 3 :: 2
+ROB_STATE : 4 :: 2
+ROB_STATE : 5 :: 2
+ROB_STATE : 6 :: 2
+ROB_STATE : 7 :: 2
+ROB_STATE : 8 :: 2
+ROB_STATE : 9 :: 2
+ROB_STATE : 10 :: 2
+ROB_STATE : 11 :: 2
+ROB_STATE : 12 :: 2
+ROB_STATE : 13 :: -1
+ROB_STATE : 14 :: 2
+ROB_STATE : 15 :: 2
+ROB_STATE : 16 :: 2
+ROB_STATE : 17 :: 1
+ROB_STATE : 18 :: -1
+ROB_STATE : 19 :: -1
+ROB_STATE : 20 :: -1
+ROB_STATE : 21 :: -1
+ROB_STATE : 22 :: -1
+ROB_STATE : 23 :: -1
+ROB_STATE : 24 :: -1
+I : 0
+In Dispatch 1
+ID TAIL : 18DISPATCH TAIL :  18
+DISPATCH OVER 
+After Dispatch
+TRACE_EMPTY :1
+ROB EMPTY : 0
+After Fetch
+After Fake retire
+After Execute
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+After Issue
+In Dispatch 
+DISPATCH HEAD : 17
+ROB_STATE : 0 :: 2
+ROB_STATE : 1 :: 2
+ROB_STATE : 2 :: 2
+ROB_STATE : 3 :: 2
+ROB_STATE : 4 :: 2
+ROB_STATE : 5 :: 2
+ROB_STATE : 6 :: 2
+ROB_STATE : 7 :: 2
+ROB_STATE : 8 :: 2
+ROB_STATE : 9 :: 2
+ROB_STATE : 10 :: 2
+ROB_STATE : 11 :: 2
+ROB_STATE : 12 :: 2
+ROB_STATE : 13 :: -1
+ROB_STATE : 14 :: 2
+ROB_STATE : 15 :: 2
+ROB_STATE : 16 :: 2
+ROB_STATE : 17 :: 1
+ROB_STATE : 18 :: -1
+ROB_STATE : 19 :: -1
+ROB_STATE : 20 :: -1
+ROB_STATE : 21 :: -1
+ROB_STATE : 22 :: -1
+ROB_STATE : 23 :: -1
+ROB_STATE : 24 :: -1
+I : 0
+In Dispatch 1
+ID TAIL : 18DISPATCH TAIL :  18
+DISPATCH OVER 
+After Dispatch
+TRACE_EMPTY :1
+ROB EMPTY : 0
+After Fetch
+After Fake retire
+After Execute
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+After Issue
+In Dispatch 
+DISPATCH HEAD : 17
+ROB_STATE : 0 :: 2
+ROB_STATE : 1 :: 2
+ROB_STATE : 2 :: 2
+ROB_STATE : 3 :: 2
+ROB_STATE : 4 :: 2
+ROB_STATE : 5 :: 2
+ROB_STATE : 6 :: 2
+ROB_STATE : 7 :: 2
+ROB_STATE : 8 :: 2
+ROB_STATE : 9 :: 2
+ROB_STATE : 10 :: 2
+ROB_STATE : 11 :: 2
+ROB_STATE : 12 :: 2
+ROB_STATE : 13 :: -1
+ROB_STATE : 14 :: 2
+ROB_STATE : 15 :: 2
+ROB_STATE : 16 :: 2
+ROB_STATE : 17 :: 1
+ROB_STATE : 18 :: -1
+ROB_STATE : 19 :: -1
+ROB_STATE : 20 :: -1
+ROB_STATE : 21 :: -1
+ROB_STATE : 22 :: -1
+ROB_STATE : 23 :: -1
+ROB_STATE : 24 :: -1
+I : 0
+In Dispatch 1
+ID TAIL : 18DISPATCH TAIL :  18
+DISPATCH OVER 
+After Dispatch
+TRACE_EMPTY :1
+ROB EMPTY : 0
+After Fetch
+After Fake retire
+After Execute
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+After Issue
+In Dispatch 
+DISPATCH HEAD : 17
+ROB_STATE : 0 :: 2
+ROB_STATE : 1 :: 2
+ROB_STATE : 2 :: 2
+ROB_STATE : 3 :: 2
+ROB_STATE : 4 :: 2
+ROB_STATE : 5 :: 2
+ROB_STATE : 6 :: 2
+ROB_STATE : 7 :: 2
+ROB_STATE : 8 :: 2
+ROB_STATE : 9 :: 2
+ROB_STATE : 10 :: 2
+ROB_STATE : 11 :: 2
+ROB_STATE : 12 :: 2
+ROB_STATE : 13 :: -1
+ROB_STATE : 14 :: 2
+ROB_STATE : 15 :: 2
+ROB_STATE : 16 :: 2
+ROB_STATE : 17 :: 1
+ROB_STATE : 18 :: -1
+ROB_STATE : 19 :: -1
+ROB_STATE : 20 :: -1
+ROB_STATE : 21 :: -1
+ROB_STATE : 22 :: -1
+ROB_STATE : 23 :: -1
+ROB_STATE : 24 :: -1
+I : 0
+In Dispatch 1
+ID TAIL : 18DISPATCH TAIL :  18
+DISPATCH OVER 
+After Dispatch
+TRACE_EMPTY :1
+ROB EMPTY : 0
+After Fetch
+After Fake retire
+After Execute
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+After Issue
+In Dispatch 
+DISPATCH HEAD : 17
+ROB_STATE : 0 :: 2
+ROB_STATE : 1 :: 2
+ROB_STATE : 2 :: 2
+ROB_STATE : 3 :: 2
+ROB_STATE : 4 :: 2
+ROB_STATE : 5 :: 2
+ROB_STATE : 6 :: 2
+ROB_STATE : 7 :: 2
+ROB_STATE : 8 :: 2
+ROB_STATE : 9 :: 2
+ROB_STATE : 10 :: 2
+ROB_STATE : 11 :: 2
+ROB_STATE : 12 :: 2
+ROB_STATE : 13 :: -1
+ROB_STATE : 14 :: 2
+ROB_STATE : 15 :: 2
+ROB_STATE : 16 :: 2
+ROB_STATE : 17 :: 1
+ROB_STATE : 18 :: -1
+ROB_STATE : 19 :: -1
+ROB_STATE : 20 :: -1
+ROB_STATE : 21 :: -1
+ROB_STATE : 22 :: -1
+ROB_STATE : 23 :: -1
+ROB_STATE : 24 :: -1
+I : 0
+In Dispatch 1
+ID TAIL : 18DISPATCH TAIL :  18
+DISPATCH OVER 
+After Dispatch
+TRACE_EMPTY :1
+ROB EMPTY : 0
+After Fetch
+After Fake retire
+After Execute
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+After Issue
+In Dispatch 
+DISPATCH HEAD : 17
+ROB_STATE : 0 :: 2
+ROB_STATE : 1 :: 2
+ROB_STATE : 2 :: 2
+ROB_STATE : 3 :: 2
+ROB_STATE : 4 :: 2
+ROB_STATE : 5 :: 2
+ROB_STATE : 6 :: 2
+ROB_STATE : 7 :: 2
+ROB_STATE : 8 :: 2
+ROB_STATE : 9 :: 2
+ROB_STATE : 10 :: 2
+ROB_STATE : 11 :: 2
+ROB_STATE : 12 :: 2
+ROB_STATE : 13 :: -1
+ROB_STATE : 14 :: 2
+ROB_STATE : 15 :: 2
+ROB_STATE : 16 :: 2
+ROB_STATE : 17 :: 1
+ROB_STATE : 18 :: -1
+ROB_STATE : 19 :: -1
+ROB_STATE : 20 :: -1
+ROB_STATE : 21 :: -1
+ROB_STATE : 22 :: -1
+ROB_STATE : 23 :: -1
+ROB_STATE : 24 :: -1
+I : 0
+In Dispatch 1
+ID TAIL : 18DISPATCH TAIL :  18
+DISPATCH OVER 
+After Dispatch
+TRACE_EMPTY :1
+ROB EMPTY : 0
+After Fetch
+After Fake retire
+After Execute
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+After Issue
+In Dispatch 
+DISPATCH HEAD : 17
+ROB_STATE : 0 :: 2
+ROB_STATE : 1 :: 2
+ROB_STATE : 2 :: 2
+ROB_STATE : 3 :: 2
+ROB_STATE : 4 :: 2
+ROB_STATE : 5 :: 2
+ROB_STATE : 6 :: 2
+ROB_STATE : 7 :: 2
+ROB_STATE : 8 :: 2
+ROB_STATE : 9 :: 2
+ROB_STATE : 10 :: 2
+ROB_STATE : 11 :: 2
+ROB_STATE : 12 :: 2
+ROB_STATE : 13 :: -1
+ROB_STATE : 14 :: 2
+ROB_STATE : 15 :: 2
+ROB_STATE : 16 :: 2
+ROB_STATE : 17 :: 1
+ROB_STATE : 18 :: -1
+ROB_STATE : 19 :: -1
+ROB_STATE : 20 :: -1
+ROB_STATE : 21 :: -1
+ROB_STATE : 22 :: -1
+ROB_STATE : 23 :: -1
+ROB_STATE : 24 :: -1
+I : 0
+In Dispatch 1
+ID TAIL : 18DISPATCH TAIL :  18
+DISPATCH OVER 
+After Dispatch
+TRACE_EMPTY :1
+ROB EMPTY : 0
+After Fetch
+After Fake retire
+After Execute
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+After Issue
+In Dispatch 
+DISPATCH HEAD : 17
+ROB_STATE : 0 :: 2
+ROB_STATE : 1 :: 2
+ROB_STATE : 2 :: 2
+ROB_STATE : 3 :: 2
+ROB_STATE : 4 :: 2
+ROB_STATE : 5 :: 2
+ROB_STATE : 6 :: 2
+ROB_STATE : 7 :: 2
+ROB_STATE : 8 :: 2
+ROB_STATE : 9 :: 2
+ROB_STATE : 10 :: 2
+ROB_STATE : 11 :: 2
+ROB_STATE : 12 :: 2
+ROB_STATE : 13 :: -1
+ROB_STATE : 14 :: 2
+ROB_STATE : 15 :: 2
+ROB_STATE : 16 :: 2
+ROB_STATE : 17 :: 1
+ROB_STATE : 18 :: -1
+ROB_STATE : 19 :: -1
+ROB_STATE : 20 :: -1
+ROB_STATE : 21 :: -1
+ROB_STATE : 22 :: -1
+ROB_STATE : 23 :: -1
+ROB_STATE : 24 :: -1
+I : 0
+In Dispatch 1
+ID TAIL : 18DISPATCH TAIL :  18
+DISPATCH OVER 
+After Dispatch
+TRACE_EMPTY :1
+ROB EMPTY : 0
+After Fetch
+After Fake retire
+After Execute
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+After Issue
+In Dispatch 
+DISPATCH HEAD : 17
+ROB_STATE : 0 :: 2
+ROB_STATE : 1 :: 2
+ROB_STATE : 2 :: 2
+ROB_STATE : 3 :: 2
+ROB_STATE : 4 :: 2
+ROB_STATE : 5 :: 2
+ROB_STATE : 6 :: 2
+ROB_STATE : 7 :: 2
+ROB_STATE : 8 :: 2
+ROB_STATE : 9 :: 2
+ROB_STATE : 10 :: 2
+ROB_STATE : 11 :: 2
+ROB_STATE : 12 :: 2
+ROB_STATE : 13 :: -1
+ROB_STATE : 14 :: 2
+ROB_STATE : 15 :: 2
+ROB_STATE : 16 :: 2
+ROB_STATE : 17 :: 1
+ROB_STATE : 18 :: -1
+ROB_STATE : 19 :: -1
+ROB_STATE : 20 :: -1
+ROB_STATE : 21 :: -1
+ROB_STATE : 22 :: -1
+ROB_STATE : 23 :: -1
+ROB_STATE : 24 :: -1
+I : 0
+In Dispatch 1
+ID TAIL : 18DISPATCH TAIL :  18
+DISPATCH OVER 
+After Dispatch
+TRACE_EMPTY :1
+ROB EMPTY : 0
+After Fetch
+After Fake retire
+After Execute
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+After Issue
+In Dispatch 
+DISPATCH HEAD : 17
+ROB_STATE : 0 :: 2
+ROB_STATE : 1 :: 2
+ROB_STATE : 2 :: 2
+ROB_STATE : 3 :: 2
+ROB_STATE : 4 :: 2
+ROB_STATE : 5 :: 2
+ROB_STATE : 6 :: 2
+ROB_STATE : 7 :: 2
+ROB_STATE : 8 :: 2
+ROB_STATE : 9 :: 2
+ROB_STATE : 10 :: 2
+ROB_STATE : 11 :: 2
+ROB_STATE : 12 :: 2
+ROB_STATE : 13 :: -1
+ROB_STATE : 14 :: 2
+ROB_STATE : 15 :: 2
+ROB_STATE : 16 :: 2
+ROB_STATE : 17 :: 1
+ROB_STATE : 18 :: -1
+ROB_STATE : 19 :: -1
+ROB_STATE : 20 :: -1
+ROB_STATE : 21 :: -1
+ROB_STATE : 22 :: -1
+ROB_STATE : 23 :: -1
+ROB_STATE : 24 :: -1
+I : 0
+In Dispatch 1
+ID TAIL : 18DISPATCH TAIL :  18
+DISPATCH OVER 
+After Dispatch
+TRACE_EMPTY :1
+ROB EMPTY : 0
+After Fetch
+After Fake retire
+After Execute
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+After Issue
+In Dispatch 
+DISPATCH HEAD : 17
+ROB_STATE : 0 :: 2
+ROB_STATE : 1 :: 2
+ROB_STATE : 2 :: 2
+ROB_STATE : 3 :: 2
+ROB_STATE : 4 :: 2
+ROB_STATE : 5 :: 2
+ROB_STATE : 6 :: 2
+ROB_STATE : 7 :: 2
+ROB_STATE : 8 :: 2
+ROB_STATE : 9 :: 2
+ROB_STATE : 10 :: 2
+ROB_STATE : 11 :: 2
+ROB_STATE : 12 :: 2
+ROB_STATE : 13 :: -1
+ROB_STATE : 14 :: 2
+ROB_STATE : 15 :: 2
+ROB_STATE : 16 :: 2
+ROB_STATE : 17 :: 1
+ROB_STATE : 18 :: -1
+ROB_STATE : 19 :: -1
+ROB_STATE : 20 :: -1
+ROB_STATE : 21 :: -1
+ROB_STATE : 22 :: -1
+ROB_STATE : 23 :: -1
+ROB_STATE : 24 :: -1
+I : 0
+In Dispatch 1
+ID TAIL : 18DISPATCH TAIL :  18
+DISPATCH OVER 
+After Dispatch
+TRACE_EMPTY :1
+ROB EMPTY : 0
+After Fetch
+After Fake retire
+After Execute
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+After Issue
+In Dispatch 
+DISPATCH HEAD : 17
+ROB_STATE : 0 :: 2
+ROB_STATE : 1 :: 2
+ROB_STATE : 2 :: 2
+ROB_STATE : 3 :: 2
+ROB_STATE : 4 :: 2
+ROB_STATE : 5 :: 2
+ROB_STATE : 6 :: 2
+ROB_STATE : 7 :: 2
+ROB_STATE : 8 :: 2
+ROB_STATE : 9 :: 2
+ROB_STATE : 10 :: 2
+ROB_STATE : 11 :: 2
+ROB_STATE : 12 :: 2
+ROB_STATE : 13 :: -1
+ROB_STATE : 14 :: 2
+ROB_STATE : 15 :: 2
+ROB_STATE : 16 :: 2
+ROB_STATE : 17 :: 1
+ROB_STATE : 18 :: -1
+ROB_STATE : 19 :: -1
+ROB_STATE : 20 :: -1
+ROB_STATE : 21 :: -1
+ROB_STATE : 22 :: -1
+ROB_STATE : 23 :: -1
+ROB_STATE : 24 :: -1
+I : 0
+In Dispatch 1
+ID TAIL : 18DISPATCH TAIL :  18
+DISPATCH OVER 
+After Dispatch
+TRACE_EMPTY :1
+ROB EMPTY : 0
+After Fetch
+After Fake retire
+After Execute
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+After Issue
+In Dispatch 
+DISPATCH HEAD : 17
+ROB_STATE : 0 :: 2
+ROB_STATE : 1 :: 2
+ROB_STATE : 2 :: 2
+ROB_STATE : 3 :: 2
+ROB_STATE : 4 :: 2
+ROB_STATE : 5 :: 2
+ROB_STATE : 6 :: 2
+ROB_STATE : 7 :: 2
+ROB_STATE : 8 :: 2
+ROB_STATE : 9 :: 2
+ROB_STATE : 10 :: 2
+ROB_STATE : 11 :: 2
+ROB_STATE : 12 :: 2
+ROB_STATE : 13 :: -1
+ROB_STATE : 14 :: 2
+ROB_STATE : 15 :: 2
+ROB_STATE : 16 :: 2
+ROB_STATE : 17 :: 1
+ROB_STATE : 18 :: -1
+ROB_STATE : 19 :: -1
+ROB_STATE : 20 :: -1
+ROB_STATE : 21 :: -1
+ROB_STATE : 22 :: -1
+ROB_STATE : 23 :: -1
+ROB_STATE : 24 :: -1
+I : 0
+In Dispatch 1
+ID TAIL : 18DISPATCH TAIL :  18
+DISPATCH OVER 
+After Dispatch
+TRACE_EMPTY :1
+ROB EMPTY : 0
+After Fetch
+After Fake retire
+After Execute
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+After Issue
+In Dispatch 
+DISPATCH HEAD : 17
+ROB_STATE : 0 :: 2
+ROB_STATE : 1 :: 2
+ROB_STATE : 2 :: 2
+ROB_STATE : 3 :: 2
+ROB_STATE : 4 :: 2
+ROB_STATE : 5 :: 2
+ROB_STATE : 6 :: 2
+ROB_STATE : 7 :: 2
+ROB_STATE : 8 :: 2
+ROB_STATE : 9 :: 2
+ROB_STATE : 10 :: 2
+ROB_STATE : 11 :: 2
+ROB_STATE : 12 :: 2
+ROB_STATE : 13 :: -1
+ROB_STATE : 14 :: 2
+ROB_STATE : 15 :: 2
+ROB_STATE : 16 :: 2
+ROB_STATE : 17 :: 1
+ROB_STATE : 18 :: -1
+ROB_STATE : 19 :: -1
+ROB_STATE : 20 :: -1
+ROB_STATE : 21 :: -1
+ROB_STATE : 22 :: -1
+ROB_STATE : 23 :: -1
+ROB_STATE : 24 :: -1
+I : 0
+In Dispatch 1
+ID TAIL : 18DISPATCH TAIL :  18
+DISPATCH OVER 
+After Dispatch
+TRACE_EMPTY :1
+ROB EMPTY : 0
+After Fetch
+After Fake retire
+After Execute
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+After Issue
+In Dispatch 
+DISPATCH HEAD : 17
+ROB_STATE : 0 :: 2
+ROB_STATE : 1 :: 2
+ROB_STATE : 2 :: 2
+ROB_STATE : 3 :: 2
+ROB_STATE : 4 :: 2
+ROB_STATE : 5 :: 2
+ROB_STATE : 6 :: 2
+ROB_STATE : 7 :: 2
+ROB_STATE : 8 :: 2
+ROB_STATE : 9 :: 2
+ROB_STATE : 10 :: 2
+ROB_STATE : 11 :: 2
+ROB_STATE : 12 :: 2
+ROB_STATE : 13 :: -1
+ROB_STATE : 14 :: 2
+ROB_STATE : 15 :: 2
+ROB_STATE : 16 :: 2
+ROB_STATE : 17 :: 1
+ROB_STATE : 18 :: -1
+ROB_STATE : 19 :: -1
+ROB_STATE : 20 :: -1
+ROB_STATE : 21 :: -1
+ROB_STATE : 22 :: -1
+ROB_STATE : 23 :: -1
+ROB_STATE : 24 :: -1
+I : 0
+In Dispatch 1
+ID TAIL : 18DISPATCH TAIL :  18
+DISPATCH OVER 
+After Dispatch
+TRACE_EMPTY :1
+ROB EMPTY : 0
+After Fetch
+After Fake retire
+After Execute
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+After Issue
+In Dispatch 
+DISPATCH HEAD : 17
+ROB_STATE : 0 :: 2
+ROB_STATE : 1 :: 2
+ROB_STATE : 2 :: 2
+ROB_STATE : 3 :: 2
+ROB_STATE : 4 :: 2
+ROB_STATE : 5 :: 2
+ROB_STATE : 6 :: 2
+ROB_STATE : 7 :: 2
+ROB_STATE : 8 :: 2
+ROB_STATE : 9 :: 2
+ROB_STATE : 10 :: 2
+ROB_STATE : 11 :: 2
+ROB_STATE : 12 :: 2
+ROB_STATE : 13 :: -1
+ROB_STATE : 14 :: 2
+ROB_STATE : 15 :: 2
+ROB_STATE : 16 :: 2
+ROB_STATE : 17 :: 1
+ROB_STATE : 18 :: -1
+ROB_STATE : 19 :: -1
+ROB_STATE : 20 :: -1
+ROB_STATE : 21 :: -1
+ROB_STATE : 22 :: -1
+ROB_STATE : 23 :: -1
+ROB_STATE : 24 :: -1
+I : 0
+In Dispatch 1
+ID TAIL : 18DISPATCH TAIL :  18
+DISPATCH OVER 
+After Dispatch
+TRACE_EMPTY :1
+ROB EMPTY : 0
+After Fetch
+After Fake retire
+After Execute
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+After Issue
+In Dispatch 
+DISPATCH HEAD : 17
+ROB_STATE : 0 :: 2
+ROB_STATE : 1 :: 2
+ROB_STATE : 2 :: 2
+ROB_STATE : 3 :: 2
+ROB_STATE : 4 :: 2
+ROB_STATE : 5 :: 2
+ROB_STATE : 6 :: 2
+ROB_STATE : 7 :: 2
+ROB_STATE : 8 :: 2
+ROB_STATE : 9 :: 2
+ROB_STATE : 10 :: 2
+ROB_STATE : 11 :: 2
+ROB_STATE : 12 :: 2
+ROB_STATE : 13 :: -1
+ROB_STATE : 14 :: 2
+ROB_STATE : 15 :: 2
+ROB_STATE : 16 :: 2
+ROB_STATE : 17 :: 1
+ROB_STATE : 18 :: -1
+ROB_STATE : 19 :: -1
+ROB_STATE : 20 :: -1
+ROB_STATE : 21 :: -1
+ROB_STATE : 22 :: -1
+ROB_STATE : 23 :: -1
+ROB_STATE : 24 :: -1
+I : 0
+In Dispatch 1
+ID TAIL : 18DISPATCH TAIL :  18
+DISPATCH OVER 
+After Dispatch
+TRACE_EMPTY :1
+ROB EMPTY : 0
+After Fetch
+After Fake retire
+After Execute
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+After Issue
+In Dispatch 
+DISPATCH HEAD : 17
+ROB_STATE : 0 :: 2
+ROB_STATE : 1 :: 2
+ROB_STATE : 2 :: 2
+ROB_STATE : 3 :: 2
+ROB_STATE : 4 :: 2
+ROB_STATE : 5 :: 2
+ROB_STATE : 6 :: 2
+ROB_STATE : 7 :: 2
+ROB_STATE : 8 :: 2
+ROB_STATE : 9 :: 2
+ROB_STATE : 10 :: 2
+ROB_STATE : 11 :: 2
+ROB_STATE : 12 :: 2
+ROB_STATE : 13 :: -1
+ROB_STATE : 14 :: 2
+ROB_STATE : 15 :: 2
+ROB_STATE : 16 :: 2
+ROB_STATE : 17 :: 1
+ROB_STATE : 18 :: -1
+ROB_STATE : 19 :: -1
+ROB_STATE : 20 :: -1
+ROB_STATE : 21 :: -1
+ROB_STATE : 22 :: -1
+ROB_STATE : 23 :: -1
+ROB_STATE : 24 :: -1
+I : 0
+In Dispatch 1
+ID TAIL : 18DISPATCH TAIL :  18
+DISPATCH OVER 
+After Dispatch
+TRACE_EMPTY :1
+ROB EMPTY : 0
+After Fetch
+After Fake retire
+After Execute
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+After Issue
+In Dispatch 
+DISPATCH HEAD : 17
+ROB_STATE : 0 :: 2
+ROB_STATE : 1 :: 2
+ROB_STATE : 2 :: 2
+ROB_STATE : 3 :: 2
+ROB_STATE : 4 :: 2
+ROB_STATE : 5 :: 2
+ROB_STATE : 6 :: 2
+ROB_STATE : 7 :: 2
+ROB_STATE : 8 :: 2
+ROB_STATE : 9 :: 2
+ROB_STATE : 10 :: 2
+ROB_STATE : 11 :: 2
+ROB_STATE : 12 :: 2
+ROB_STATE : 13 :: -1
+ROB_STATE : 14 :: 2
+ROB_STATE : 15 :: 2
+ROB_STATE : 16 :: 2
+ROB_STATE : 17 :: 1
+ROB_STATE : 18 :: -1
+ROB_STATE : 19 :: -1
+ROB_STATE : 20 :: -1
+ROB_STATE : 21 :: -1
+ROB_STATE : 22 :: -1
+ROB_STATE : 23 :: -1
+ROB_STATE : 24 :: -1
+I : 0
+In Dispatch 1
+ID TAIL : 18DISPATCH TAIL :  18
+DISPATCH OVER 
+After Dispatch
+TRACE_EMPTY :1
+ROB EMPTY : 0
+After Fetch
+After Fake retire
+After Execute
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+After Issue
+In Dispatch 
+DISPATCH HEAD : 17
+ROB_STATE : 0 :: 2
+ROB_STATE : 1 :: 2
+ROB_STATE : 2 :: 2
+ROB_STATE : 3 :: 2
+ROB_STATE : 4 :: 2
+ROB_STATE : 5 :: 2
+ROB_STATE : 6 :: 2
+ROB_STATE : 7 :: 2
+ROB_STATE : 8 :: 2
+ROB_STATE : 9 :: 2
+ROB_STATE : 10 :: 2
+ROB_STATE : 11 :: 2
+ROB_STATE : 12 :: 2
+ROB_STATE : 13 :: -1
+ROB_STATE : 14 :: 2
+ROB_STATE : 15 :: 2
+ROB_STATE : 16 :: 2
+ROB_STATE : 17 :: 1
+ROB_STATE : 18 :: -1
+ROB_STATE : 19 :: -1
+ROB_STATE : 20 :: -1
+ROB_STATE : 21 :: -1
+ROB_STATE : 22 :: -1
+ROB_STATE : 23 :: -1
+ROB_STATE : 24 :: -1
+I : 0
+In Dispatch 1
+ID TAIL : 18DISPATCH TAIL :  18
+DISPATCH OVER 
+After Dispatch
+TRACE_EMPTY :1
+ROB EMPTY : 0
+After Fetch
+After Fake retire
+After Execute
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+After Issue
+In Dispatch 
+DISPATCH HEAD : 17
+ROB_STATE : 0 :: 2
+ROB_STATE : 1 :: 2
+ROB_STATE : 2 :: 2
+ROB_STATE : 3 :: 2
+ROB_STATE : 4 :: 2
+ROB_STATE : 5 :: 2
+ROB_STATE : 6 :: 2
+ROB_STATE : 7 :: 2
+ROB_STATE : 8 :: 2
+ROB_STATE : 9 :: 2
+ROB_STATE : 10 :: 2
+ROB_STATE : 11 :: 2
+ROB_STATE : 12 :: 2
+ROB_STATE : 13 :: -1
+ROB_STATE : 14 :: 2
+ROB_STATE : 15 :: 2
+ROB_STATE : 16 :: 2
+ROB_STATE : 17 :: 1
+ROB_STATE : 18 :: -1
+ROB_STATE : 19 :: -1
+ROB_STATE : 20 :: -1
+ROB_STATE : 21 :: -1
+ROB_STATE : 22 :: -1
+ROB_STATE : 23 :: -1
+ROB_STATE : 24 :: -1
+I : 0
+In Dispatch 1
+ID TAIL : 18DISPATCH TAIL :  18
+DISPATCH OVER 
+After Dispatch
+TRACE_EMPTY :1
+ROB EMPTY : 0
+After Fetch
+After Fake retire
+After Execute
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+After Issue
+In Dispatch 
+DISPATCH HEAD : 17
+ROB_STATE : 0 :: 2
+ROB_STATE : 1 :: 2
+ROB_STATE : 2 :: 2
+ROB_STATE : 3 :: 2
+ROB_STATE : 4 :: 2
+ROB_STATE : 5 :: 2
+ROB_STATE : 6 :: 2
+ROB_STATE : 7 :: 2
+ROB_STATE : 8 :: 2
+ROB_STATE : 9 :: 2
+ROB_STATE : 10 :: 2
+ROB_STATE : 11 :: 2
+ROB_STATE : 12 :: 2
+ROB_STATE : 13 :: -1
+ROB_STATE : 14 :: 2
+ROB_STATE : 15 :: 2
+ROB_STATE : 16 :: 2
+ROB_STATE : 17 :: 1
+ROB_STATE : 18 :: -1
+ROB_STATE : 19 :: -1
+ROB_STATE : 20 :: -1
+ROB_STATE : 21 :: -1
+ROB_STATE : 22 :: -1
+ROB_STATE : 23 :: -1
+ROB_STATE : 24 :: -1
+I : 0
+In Dispatch 1
+ID TAIL : 18DISPATCH TAIL :  18
+DISPATCH OVER 
+After Dispatch
+TRACE_EMPTY :1
+ROB EMPTY : 0
+After Fetch
+After Fake retire
+After Execute
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+After Issue
+In Dispatch 
+DISPATCH HEAD : 17
+ROB_STATE : 0 :: 2
+ROB_STATE : 1 :: 2
+ROB_STATE : 2 :: 2
+ROB_STATE : 3 :: 2
+ROB_STATE : 4 :: 2
+ROB_STATE : 5 :: 2
+ROB_STATE : 6 :: 2
+ROB_STATE : 7 :: 2
+ROB_STATE : 8 :: 2
+ROB_STATE : 9 :: 2
+ROB_STATE : 10 :: 2
+ROB_STATE : 11 :: 2
+ROB_STATE : 12 :: 2
+ROB_STATE : 13 :: -1
+ROB_STATE : 14 :: 2
+ROB_STATE : 15 :: 2
+ROB_STATE : 16 :: 2
+ROB_STATE : 17 :: 1
+ROB_STATE : 18 :: -1
+ROB_STATE : 19 :: -1
+ROB_STATE : 20 :: -1
+ROB_STATE : 21 :: -1
+ROB_STATE : 22 :: -1
+ROB_STATE : 23 :: -1
+ROB_STATE : 24 :: -1
+I : 0
+In Dispatch 1
+ID TAIL : 18DISPATCH TAIL :  18
+DISPATCH OVER 
+After Dispatch
+TRACE_EMPTY :1
+ROB EMPTY : 0
+After Fetch
+After Fake retire
+After Execute
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+After Issue
+In Dispatch 
+DISPATCH HEAD : 17
+ROB_STATE : 0 :: 2
+ROB_STATE : 1 :: 2
+ROB_STATE : 2 :: 2
+ROB_STATE : 3 :: 2
+ROB_STATE : 4 :: 2
+ROB_STATE : 5 :: 2
+ROB_STATE : 6 :: 2
+ROB_STATE : 7 :: 2
+ROB_STATE : 8 :: 2
+ROB_STATE : 9 :: 2
+ROB_STATE : 10 :: 2
+ROB_STATE : 11 :: 2
+ROB_STATE : 12 :: 2
+ROB_STATE : 13 :: -1
+ROB_STATE : 14 :: 2
+ROB_STATE : 15 :: 2
+ROB_STATE : 16 :: 2
+ROB_STATE : 17 :: 1
+ROB_STATE : 18 :: -1
+ROB_STATE : 19 :: -1
+ROB_STATE : 20 :: -1
+ROB_STATE : 21 :: -1
+ROB_STATE : 22 :: -1
+ROB_STATE : 23 :: -1
+ROB_STATE : 24 :: -1
+I : 0
+In Dispatch 1
+ID TAIL : 18DISPATCH TAIL :  18
+DISPATCH OVER 
+After Dispatch
+TRACE_EMPTY :1
+ROB EMPTY : 0
+After Fetch
+After Fake retire
+After Execute
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+After Issue
+In Dispatch 
+DISPATCH HEAD : 17
+ROB_STATE : 0 :: 2
+ROB_STATE : 1 :: 2
+ROB_STATE : 2 :: 2
+ROB_STATE : 3 :: 2
+ROB_STATE : 4 :: 2
+ROB_STATE : 5 :: 2
+ROB_STATE : 6 :: 2
+ROB_STATE : 7 :: 2
+ROB_STATE : 8 :: 2
+ROB_STATE : 9 :: 2
+ROB_STATE : 10 :: 2
+ROB_STATE : 11 :: 2
+ROB_STATE : 12 :: 2
+ROB_STATE : 13 :: -1
+ROB_STATE : 14 :: 2
+ROB_STATE : 15 :: 2
+ROB_STATE : 16 :: 2
+ROB_STATE : 17 :: 1
+ROB_STATE : 18 :: -1
+ROB_STATE : 19 :: -1
+ROB_STATE : 20 :: -1
+ROB_STATE : 21 :: -1
+ROB_STATE : 22 :: -1
+ROB_STATE : 23 :: -1
+ROB_STATE : 24 :: -1
+I : 0
+In Dispatch 1
+ID TAIL : 18DISPATCH TAIL :  18
+DISPATCH OVER 
+After Dispatch
+TRACE_EMPTY :1
+ROB EMPTY : 0
+After Fetch
+After Fake retire
+After Execute
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+After Issue
+In Dispatch 
+DISPATCH HEAD : 17
+ROB_STATE : 0 :: 2
+ROB_STATE : 1 :: 2
+ROB_STATE : 2 :: 2
+ROB_STATE : 3 :: 2
+ROB_STATE : 4 :: 2
+ROB_STATE : 5 :: 2
+ROB_STATE : 6 :: 2
+ROB_STATE : 7 :: 2
+ROB_STATE : 8 :: 2
+ROB_STATE : 9 :: 2
+ROB_STATE : 10 :: 2
+ROB_STATE : 11 :: 2
+ROB_STATE : 12 :: 2
+ROB_STATE : 13 :: -1
+ROB_STATE : 14 :: 2
+ROB_STATE : 15 :: 2
+ROB_STATE : 16 :: 2
+ROB_STATE : 17 :: 1
+ROB_STATE : 18 :: -1
+ROB_STATE : 19 :: -1
+ROB_STATE : 20 :: -1
+ROB_STATE : 21 :: -1
+ROB_STATE : 22 :: -1
+ROB_STATE : 23 :: -1
+ROB_STATE : 24 :: -1
+I : 0
+In Dispatch 1
+ID TAIL : 18DISPATCH TAIL :  18
+DISPATCH OVER 
+After Dispatch
+TRACE_EMPTY :1
+ROB EMPTY : 0
+After Fetch
+After Fake retire
+After Execute
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+After Issue
+In Dispatch 
+DISPATCH HEAD : 17
+ROB_STATE : 0 :: 2
+ROB_STATE : 1 :: 2
+ROB_STATE : 2 :: 2
+ROB_STATE : 3 :: 2
+ROB_STATE : 4 :: 2
+ROB_STATE : 5 :: 2
+ROB_STATE : 6 :: 2
+ROB_STATE : 7 :: 2
+ROB_STATE : 8 :: 2
+ROB_STATE : 9 :: 2
+ROB_STATE : 10 :: 2
+ROB_STATE : 11 :: 2
+ROB_STATE : 12 :: 2
+ROB_STATE : 13 :: -1
+ROB_STATE : 14 :: 2
+ROB_STATE : 15 :: 2
+ROB_STATE : 16 :: 2
+ROB_STATE : 17 :: 1
+ROB_STATE : 18 :: -1
+ROB_STATE : 19 :: -1
+ROB_STATE : 20 :: -1
+ROB_STATE : 21 :: -1
+ROB_STATE : 22 :: -1
+ROB_STATE : 23 :: -1
+ROB_STATE : 24 :: -1
+I : 0
+In Dispatch 1
+ID TAIL : 18DISPATCH TAIL :  18
+DISPATCH OVER 
+After Dispatch
+TRACE_EMPTY :1
+ROB EMPTY : 0
+After Fetch
+After Fake retire
+After Execute
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+After Issue
+In Dispatch 
+DISPATCH HEAD : 17
+ROB_STATE : 0 :: 2
+ROB_STATE : 1 :: 2
+ROB_STATE : 2 :: 2
+ROB_STATE : 3 :: 2
+ROB_STATE : 4 :: 2
+ROB_STATE : 5 :: 2
+ROB_STATE : 6 :: 2
+ROB_STATE : 7 :: 2
+ROB_STATE : 8 :: 2
+ROB_STATE : 9 :: 2
+ROB_STATE : 10 :: 2
+ROB_STATE : 11 :: 2
+ROB_STATE : 12 :: 2
+ROB_STATE : 13 :: -1
+ROB_STATE : 14 :: 2
+ROB_STATE : 15 :: 2
+ROB_STATE : 16 :: 2
+ROB_STATE : 17 :: 1
+ROB_STATE : 18 :: -1
+ROB_STATE : 19 :: -1
+ROB_STATE : 20 :: -1
+ROB_STATE : 21 :: -1
+ROB_STATE : 22 :: -1
+ROB_STATE : 23 :: -1
+ROB_STATE : 24 :: -1
+I : 0
+In Dispatch 1
+ID TAIL : 18DISPATCH TAIL :  18
+DISPATCH OVER 
+After Dispatch
+TRACE_EMPTY :1
+ROB EMPTY : 0
+After Fetch
+After Fake retire
+After Execute
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+After Issue
+In Dispatch 
+DISPATCH HEAD : 17
+ROB_STATE : 0 :: 2
+ROB_STATE : 1 :: 2
+ROB_STATE : 2 :: 2
+ROB_STATE : 3 :: 2
+ROB_STATE : 4 :: 2
+ROB_STATE : 5 :: 2
+ROB_STATE : 6 :: 2
+ROB_STATE : 7 :: 2
+ROB_STATE : 8 :: 2
+ROB_STATE : 9 :: 2
+ROB_STATE : 10 :: 2
+ROB_STATE : 11 :: 2
+ROB_STATE : 12 :: 2
+ROB_STATE : 13 :: -1
+ROB_STATE : 14 :: 2
+ROB_STATE : 15 :: 2
+ROB_STATE : 16 :: 2
+ROB_STATE : 17 :: 1
+ROB_STATE : 18 :: -1
+ROB_STATE : 19 :: -1
+ROB_STATE : 20 :: -1
+ROB_STATE : 21 :: -1
+ROB_STATE : 22 :: -1
+ROB_STATE : 23 :: -1
+ROB_STATE : 24 :: -1
+I : 0
+In Dispatch 1
+ID TAIL : 18DISPATCH TAIL :  18
+DISPATCH OVER 
+After Dispatch
+TRACE_EMPTY :1
+ROB EMPTY : 0
+After Fetch
+After Fake retire
+After Execute
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+Inside ISSUE 
+Inside Issue 1
+After Issue
+In Dispatch 
+DISPATCH HEAD : 17
+ROB_STATE : 0 :: 2
+ROB_STATE : 1 :: 2
+ROB_STATE : 2 :: 2
+ROB_STATE : 3 :: 2
+ROB_STATE : 4 :: 2
+ROB_STATE : 5 :: 2
+ROB_STATE : 6 :: 2
+ROB_STATE : 7 :: 2
+ROB_STATE : 8 :: 2
+ROB_STATE : 9 :: 2
+ROB_STATE : 10 :: 2
+ROB_STATE : 11 :: 2
+ROB_STATE : 12 :: 2
+ROB_STATE : 13 :: -1
+ROB_STATE : 14 :: 2
+ROB_STATE : 15 :: 2
+ROB_STATE : 16 :: 2
+ROB_STATE : 17 :: 1
+ROB_STATE : 18 :: -1
+ROB_STATE : 19 :: -1
+ROB_STATE : 20 :: -1
+ROB_STATE : 21 :: -1
+ROB_STATE : 22 :: -1
+ROB_STATE : 23 :: -1
+ROB_STATE : 24 :: -1
+I : 0
+In Dispatch 1
+ID TAIL : 18DISPATCH TAIL :  18
+DISPATCH OVER 
+After Dispatch
+TRACE_EMPTY :1
+ROB EMPTY : 0
+After Fetch
+NUM CYCLES 50 NUM INSTRUCTIONS 18
